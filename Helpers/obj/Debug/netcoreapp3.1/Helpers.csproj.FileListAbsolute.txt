@@ -1,9 +1,0 @@
-D:\source\repos\Helpers\Helpers\bin\Debug\netcoreapp3.1\Helpers.deps.json
-D:\source\repos\Helpers\Helpers\bin\Debug\netcoreapp3.1\Helpers.dll
-D:\source\repos\Helpers\Helpers\bin\Debug\netcoreapp3.1\Helpers.pdb
-D:\source\repos\Helpers\Helpers\obj\Debug\netcoreapp3.1\Helpers.csprojAssemblyReference.cache
-D:\source\repos\Helpers\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfoInputs.cache
-D:\source\repos\Helpers\Helpers\obj\Debug\netcoreapp3.1\Helpers.AssemblyInfo.cs
-D:\source\repos\Helpers\Helpers\obj\Debug\netcoreapp3.1\Helpers.csproj.CoreCompileInputs.cache
-D:\source\repos\Helpers\Helpers\obj\Debug\netcoreapp3.1\Helpers.dll
-D:\source\repos\Helpers\Helpers\obj\Debug\netcoreapp3.1\Helpers.pdb
