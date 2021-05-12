@@ -33,5 +33,11 @@ pipeline{
                 bat "dotnet build Helpers.sln --configuration Release"
             }
         }
+
+        stage('Publish'){
+            steps{
+                bat "dotnetPublish configuration: 'Release', project: 'Helpers/Helpers.csproj'"
+            }
+        }
     }
  }
