@@ -36,7 +36,7 @@ pipeline{
 
         stage('Publish'){
             steps{
-                bat "dotnet publish configuration: 'Release', project: 'Helpers/Helpers.csproj'"
+                bat "dotnet publish Helpers/Helpers.csproj"
             }
         }
     }
